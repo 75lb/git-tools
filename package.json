@@ -1,0 +1,11 @@
+{
+  "name": "git-tools",
+  "author": "Lloyd Brookes <75pound@gmail.com>",
+  "version": "0.0.0",
+  "description": "Basic scripts for mass-inspecting/updating git repos.",
+  "repository": "https://github.com/75lb/git-tools",
+  "keywords": [ "git"],
+  "bin": {
+      
+  }
+}
