@@ -6,6 +6,6 @@
   "repository": "https://github.com/75lb/git-tools",
   "keywords": [ "git"],
   "bin": {
-      
+      "diff-nm": "bin/diff-nm.sh"
   }
 }
