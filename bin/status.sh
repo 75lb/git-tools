@@ -1,4 +1,4 @@
-for FILE in *
+for FILE in $@
 do
     echo
     echo "$FILE"
