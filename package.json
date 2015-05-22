@@ -6,6 +6,7 @@
   "repository": "https://github.com/75lb/repo-tools",
   "keywords": [ "git"],
   "bin": {
-      "diff-nm": "bin/diff-nm.sh"
+      "diff-nm": "bin/diff-nm.sh",
+      "upstream": "bin/upstream.sh"
   }
 }
